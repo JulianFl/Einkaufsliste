@@ -10,4 +10,4 @@ Lorem ipsum dolor *sit* amet, **consectetur**  adipisicing elit, ***sed*** do ei
 * 2003: Einschulung
     * Grundschule
 
-![git](git.png "git")
+![git](git "git")
